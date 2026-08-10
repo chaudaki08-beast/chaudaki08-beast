@@ -46,7 +46,7 @@ I design and build **production-grade software** — enterprise SaaS platforms, 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Universal CMS](https://github.com/chaudaki08-beast/universal-cms) | cPanel-ready website builder with drag-and-drop editing, theming, blog, e-commerce & SEO · [Live Demo](https://wp.hexabiz.com/ganesh/cms/) | PHP 8, MySQL |
+| [Universal CMS](https://github.com/chaudaki08-beast/universal-cms) | cPanel-ready website builder with drag-and-drop editing, theming, blog, e-commerce & SEO | PHP 8, MySQL |
 | [Quantum Sentiment Analysis](https://github.com/chaudaki08-beast/Quantum) | Hotel review sentiment via NLP + Qiskit quantum circuits · [Live Demo](https://ganeshcyberweb-quantum-sentiment.hf.space) | Python, Flask, Qiskit |
 | [ISP TMS](https://github.com/chaudaki08-beast/isp-tms) | CRM, billing & operations platform for internet providers | Next.js, Supabase |
 | [SB CashFlow](https://github.com/chaudaki08-beast/cable-isp-expense) | Mobile-first income & expense tracking | React, Firebase |
